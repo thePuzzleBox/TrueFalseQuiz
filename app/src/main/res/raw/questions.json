@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Alaska is both the most western and eastern state in the U.S",
+    "answer": true
+  },
+  {
+    "question": "Frankenstein is a monster’s name.",
+    "answer": false
+  },
+  {
+    "question": "It is impossible to hum with your nose plugged. :)",
+    "answer": true
+  },
+  {
+    "question": "Bill Gates, Steve Jobs, AND Mark Zuckerberg didn’t graduate from college.",
+    "answer": true
+  },
+  {
+    "question": "Tomatoes are a vegetables.",
+    "answer": false
+  },
+  {
+    "question": "Abraham Lincoln was the tallest president.",
+    "answer": true
+  },
+  {
+    "question": "There are enough beaches in Australia to visit a new one everyday for 27 years.",
+    "answer": true
+  },
+  {
+    "question": "There is at least one pair of identical snowflakes.",
+    "answer": false
+  },
+  {
+    "question": "Bananas grow on trees.",
+    "Answer": false
+  },
+  {
+    "question": "It snows metal on Venus.",
+    "answer": true
+  },
+  {
+    "question": "Thanks for playing!"
+  }
+
+]
